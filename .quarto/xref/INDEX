@@ -1,0 +1,134 @@
+{
+  "index.qmd": {
+    "index.html": "7361ce02"
+  },
+  "intro.qmd": {
+    "intro.html": "a42020b9"
+  },
+  "chapters/American lobster.qmd": {
+    "American lobster.html": "9e344b71"
+  },
+  "chapters/Atlantic cod.qmd": {
+    "Atlantic cod.html": "5b122e7e"
+  },
+  "chapters/Atlantic croaker.qmd": {
+    "Atlantic croaker.html": "ef58be03"
+  },
+  "chapters/Atlantic halibut.qmd": {
+    "Atlantic halibut.html": "e3d1cb09"
+  },
+  "chapters/Atlantic herring.qmd": {
+    "Atlantic herring.html": "13daeae5"
+  },
+  "chapters/Atlantic mackerel.qmd": {
+    "Atlantic mackerel.html": "4dc5db47"
+  },
+  "chapters/Atlantic menhaden.qmd": {
+    "Atlantic menhaden.html": "47a08a64"
+  },
+  "chapters/Atlantic sea scallop.qmd": {
+    "Atlantic sea scallop.html": "66011091"
+  },
+  "chapters/Atlantic surfclam.qmd": {
+    "Atlantic surfclam.html": "84878cf9"
+  },
+  "chapters/Atlantic wolffish.qmd": {
+    "Atlantic wolffish.html": "8463f1e8"
+  },
+  "chapters/Black sea bass.qmd": {
+    "Black sea bass.html": "e64377b2"
+  },
+  "chapters/Blue crab.qmd": {
+    "Blue crab.html": "b4c68f6b"
+  },
+  "chapters/Bluefin tuna.qmd": {
+    "Bluefin tuna.html": "a9870acc"
+  },
+  "chapters/Bluefish.qmd": {
+    "Bluefish.html": "58de90e8"
+  },
+  "chapters/Blueline tilefish.qmd": {
+    "Blueline tilefish.html": "9561c68f"
+  },
+  "chapters/Butterfish.qmd": {
+    "Butterfish.html": "3010d989"
+  },
+  "chapters/Chub mackerel.qmd": {
+    "Chub mackerel.html": "cc8264e8"
+  },
+  "chapters/Cobia.qmd": {
+    "Cobia.html": "64f2ab21"
+  },
+  "chapters/Eastern oyster.qmd": {
+    "Eastern oyster.html": "a2ac68fd"
+  },
+  "chapters/Golden tilefish.qmd": {
+    "Golden tilefish.html": "d7c4ab08"
+  },
+  "chapters/Haddock.qmd": {
+    "Haddock.html": "3a209611"
+  },
+  "chapters/Longfin squid.qmd": {
+    "Longfin squid.html": "3d3e8820"
+  },
+  "chapters/Monkfish.qmd": {
+    "Monkfish.html": "e77cd618"
+  },
+  "chapters/Northern Quahog.qmd": {
+    "Northern Quahog.html": "9217bee6"
+  },
+  "chapters/Ocean pout.qmd": {
+    "Ocean pout.html": "9f7fe7bf"
+  },
+  "chapters/Ocean quahog.qmd": {
+    "Ocean quahog.html": "44eb72d2"
+  },
+  "chapters/Pollock.qmd": {
+    "Pollock.html": "fe17372c"
+  },
+  "chapters/Red drum.qmd": {
+    "Red drum.html": "beeb00ab"
+  },
+  "chapters/Scup.qmd": {
+    "Scup.html": "325a5b6a"
+  },
+  "chapters/Shortfin squid.qmd": {
+    "Shortfin squid.html": "1abb8979"
+  },
+  "chapters/Smooth dogfish.qmd": {
+    "Smooth dogfish.html": "0f6961f0"
+  },
+  "chapters/Softshell clam.qmd": {
+    "Softshell clam.html": "92319d50"
+  },
+  "chapters/Spanish mackerel.qmd": {
+    "Spanish mackerel.html": "9c588fb4"
+  },
+  "chapters/Spiny dogfish.qmd": {
+    "Spiny dogfish.html": "cccd6986"
+  },
+  "chapters/Striped bass.qmd": {
+    "Striped bass.html": "ffa61433"
+  },
+  "chapters/Summer flounder.qmd": {
+    "Summer flounder.html": "f13bfe5f"
+  },
+  "chapters/Tautog.qmd": {
+    "Tautog.html": "b1f01927"
+  },
+  "chapters/White hake.qmd": {
+    "White hake.html": "044dc3f3"
+  },
+  "chapters/Windowpane flounder.qmd": {
+    "Windowpane flounder.html": "85e3115b"
+  },
+  "chapters/Winter flounder.qmd": {
+    "Winter flounder.html": "5a450112"
+  },
+  "chapters/Witch flounder.qmd": {
+    "Witch flounder.html": "914da490"
+  },
+  "chapters/Yellowtail flounder.qmd": {
+    "Yellowtail flounder.html": "65822ba0"
+  }
+}
